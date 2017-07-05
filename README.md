@@ -10,7 +10,7 @@ Bosch, N., & Paquette, L. (2017). Unsupervised deep autoencoders for feature ext
 The code was tested with Keras 2.0.3 and Tensorflow 1.1.0 neural network libraries.
 
 Data were from [Betty's Brain](http://www.teachableagents.org/research/bettysbrain.php). These data
-are required for the code to run, and are not publically available. However, the code could be
+are required for the code to run, and are not publicly available. However, the code could be
 (relatively) easily adapted to another dataset.
 
 ## Model-building steps
